@@ -21,3 +21,5 @@ for n in range(26):
         print( b)
     except Exception as e:
         print("error", e)
+        
+# the only valid utf-8 is : See you later
